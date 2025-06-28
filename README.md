@@ -3,7 +3,6 @@ Hi 👋 My name is Sittichok Naiyanit
  * 💼  Internship at Bangkok Bank as a Back-end Developer
  * ✉️  You can contact me at [sittichoknaiyanit.3345@gmail.com](mailto:sittichoknaiyanit.3345@gmail.com) 
  * 🧠  I'm learning Java Spring Boot, Next.js & React.js
- * ⚡ Fun fact: I love coding and sports!
 
 ### Skills  
 
